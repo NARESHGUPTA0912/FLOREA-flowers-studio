@@ -6,7 +6,7 @@ Floréa is designed around the idea that the right flowers can make ordinary day
 
 ## 🌐 Live Demo
 
-<a href="https://florea.netlify.app/" target="_blank">View Live Website ↗</a>
+<a href="https://florea-flowers-studio.vercel.app/" target="_blank">View Live Website ↗</a>
 
 ## ✨ Features
 
@@ -28,7 +28,24 @@ Floréa is designed around the idea that the right flowers can make ordinary day
 * **CSS3** — Responsive layouts, animations, transitions, and visual styling
 * **JavaScript** — Gallery navigation and mobile menu interactions
 
-## 📸 Website Sections
+## 📸 Website Preview
+
+![Floréa Website Demo](screenshots/screenshots1.gif)
+
+<p align="center">
+  <img src="screenshots/screenshot2.png" width="48%" alt="Floréa Flower Collection">
+</p>
+
+<p align="center">
+  <img src="screenshots/screenshot3.png" width="48%" alt="Floréa About Section">
+  <img src="screenshots/screenshot4.png" width="48%" alt="Floréa Contact Section">
+</p>
+
+<p align="center">
+  <img src="screenshots/screenshot5.png" width="70%" alt="Floréa Footer">
+</p>
+
+## 🌸 Website Sections
 
 ### 🏠 Hero Section
 
@@ -38,7 +55,7 @@ Flowers that feel like poetry.
 
 Curated stems, soft colour palettes, and thoughtful arrangements designed to turn everyday moments into something unforgettable.
 
-### 🌸 Flower Collection
+### 🌷 Flower Collection
 
 A curated collection of soft palettes, seasonal stems, and graceful florals for meaningful moments.
 
@@ -74,11 +91,18 @@ Visitors can get in touch with Floréa through the contact form for questions, b
 ## 📂 Project Structure
 
 ```text
-Florea/
+FLOREA-flowers-studio/
 │
 ├── index.html
 ├── main.css
 ├── .gitignore
+│
+├── screenshots/
+│   ├── screenshots1.gif
+│   ├── screenshot2.png
+│   ├── screenshot3.png
+│   ├── screenshot4.png
+│   └── screenshot5.png
 │
 └── images&videos/
     ├── flowers.mp4
@@ -97,13 +121,13 @@ Florea/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/NARESHGUPTA0912/FLOREA-flowers-studio.git
 ```
 
 ### 2. Open the project folder
 
 ```bash
-cd Florea
+cd FLOREA-flowers-studio
 ```
 
 ### 3. Run the website
